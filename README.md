@@ -1,6 +1,6 @@
 This is my effort to reimagine the global sea surface temperature anomalies and the famous NASA global temperature spiral.   
 
-I have plotted the graph to reflect Sea SUrface Temperature rather than the anomaly. I also reimagined the spiral to depict the Total renewable water resources per capita over the years for select countries. Initial plan was to select the 10 most populous countries. However, the data on Russia was sparse. Hence, it was replaced by the 11th most populous country - Ethiopia
+I have plotted the graph to reflect Sea Surface Temperature (SST) rather than the anomaly. I also reimagined the spiral to depict the Total renewable water resources per capita over the years for select countries. Initial plan was to select the 10 most populous countries. However, the data on Russia was sparse. Hence, it was replaced by the 11th most populous country - Ethiopia
 
 
 
